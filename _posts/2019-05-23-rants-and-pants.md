@@ -1,5 +1,7 @@
 ---
 layout: post
+category: Shows
+tags: Derby County, electric companies, EU elections, Netflix, Whatsapp, Telegram, Houses of Parliament
 episodeNumber: 22
 postTitle: Rants & Pants 👖
 excerpt: In this week’s profane episode, Si has all the rants and James makes a political metaphor.
