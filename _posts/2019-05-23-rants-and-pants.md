@@ -14,7 +14,7 @@ enclosureUrl: https://drive.google.com/file/d/1mRz1RVkrT_4BdgsMiSoLHC8VFrSKC_pz/
 - Derby County comeback to Dirty Leeds (reference [The Damned United](https://www.imdb.com/title/tt1226271/))
 - SSE don’t mess with me
 - EU elections upcoming – but how does it work?!
-- What have we been watching or listening to? NOT GOT but [Line of Duty](https://www.netflix.com/gb/title/70263817?source=35), [GLOW](https://www.netflix.com/gb/title/80114988?source=35) & [Ozark](https://www.netflix.com/gb/title/80117552?source=35)
+- What have we been watching or listening to? _NOT_ GOT but [Line of Duty](https://www.netflix.com/gb/title/70263817?source=35), [GLOW](https://www.netflix.com/gb/title/80114988?source=35) & [Ozark](https://www.netflix.com/gb/title/80117552?source=35)
 
 ## Article of the Week
 
