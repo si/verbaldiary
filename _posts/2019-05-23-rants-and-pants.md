@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: show
 episodeNumber: 22
-title: Rants & Pants 👖
+postTitle: Rants & Pants 👖
 excerpt: In this week’s profane episode, Si has all the rants and James makes a political metaphor.
 enclosureUrl: https://drive.google.com/file/d/1mRz1RVkrT_4BdgsMiSoLHC8VFrSKC_pz/view?usp=drivesdk
 ---
