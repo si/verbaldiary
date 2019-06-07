@@ -1,1 +1,2 @@
 theme: jekyll-theme-tactile
+permalink: /:categories/:title:output_ext
