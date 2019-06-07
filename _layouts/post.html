@@ -2,6 +2,6 @@
 layout: default
 ---
 <h1>№{{ page.episodeNumber }} - {{ page.postTitle }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<p><time>{{ page.date | date_to_string }}</time></p>
 <p><em>{{ page.excerpt }}</em></p>
 {{ content }}
